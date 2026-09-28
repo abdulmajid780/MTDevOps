@@ -1,0 +1,9 @@
+{
+	"servers": {
+		"https://mcp.ai.synamedia.com/mcp": {
+			"url": "https://mcp.ai.synamedia.com/mcp",
+			"type": "http"
+		}
+	},
+	"inputs": []
+}
